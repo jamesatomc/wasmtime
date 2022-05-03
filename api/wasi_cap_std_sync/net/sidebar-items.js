@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Socket",""]],"fn":[["filetype_from",""],["from_sysif_fdflags",""]],"struct":[["TcpListener",""],["TcpStream",""],["UnixListener",""],["UnixStream",""]]});

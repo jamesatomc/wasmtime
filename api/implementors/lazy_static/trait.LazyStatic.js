@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["wasmtime_jit_debug"] = [{"text":"impl <a class=\"trait\" href=\"https://docs.rs/lazy_static/1.4.0/lazy_static/trait.LazyStatic.html\" title=\"trait lazy_static::LazyStatic\">LazyStatic</a> for <a class=\"struct\" href=\"wasmtime_jit_debug/gdb_jit_int/struct.GDB_REGISTRATION.html\" title=\"struct wasmtime_jit_debug::gdb_jit_int::GDB_REGISTRATION\">GDB_REGISTRATION</a>","synthetic":false,"types":["wasmtime_jit_debug::gdb_jit_int::GDB_REGISTRATION"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["wasmtime_environ"] = [{"text":"impl <a class=\"trait\" href=\"wasmtime_environ/__core/ops/trait.Index.html\" title=\"trait wasmtime_environ::__core::ops::Index\">Index</a>&lt;<a class=\"struct\" href=\"wasmtime_environ/struct.SignatureIndex.html\" title=\"struct wasmtime_environ::SignatureIndex\">SignatureIndex</a>&gt; for <a class=\"struct\" href=\"wasmtime_environ/struct.TypeTables.html\" title=\"struct wasmtime_environ::TypeTables\">TypeTables</a>","synthetic":false,"types":["wasmtime_environ::module::TypeTables"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

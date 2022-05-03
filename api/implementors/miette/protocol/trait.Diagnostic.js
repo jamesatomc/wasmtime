@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["cranelift_isle"] = [{"text":"impl Diagnostic for <a class=\"enum\" href=\"cranelift_isle/error/enum.Error.html\" title=\"enum cranelift_isle::error::Error\">Error</a>","synthetic":false,"types":["cranelift_isle::error::Error"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["cranelift_isle"] = [{"text":"impl SourceCode for <a class=\"struct\" href=\"cranelift_isle/error/struct.Source.html\" title=\"struct cranelift_isle::error::Source\">Source</a>","synthetic":false,"types":["cranelift_isle::error::Source"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
